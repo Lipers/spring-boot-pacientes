@@ -11,8 +11,6 @@ Este projeto é composto com as seguintes tecnologias:
 * [Spring Boot] - Frame Work utilizado em java.
 * [MySQL] - Banco de dados.
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
 
 ### Instalação
 
